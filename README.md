@@ -8,13 +8,15 @@ Spring MVC 3
 
 Hibernate 3
 
-Maven
+Maven 3.5.0
 
-Tomcat
+Tomcat 8.5
 
 JDK 7
 
-Eclipse
+Eclipse Neon
+
+PostgreSQL 9.6
 
 # Modificación xml para conexión a BD
 
